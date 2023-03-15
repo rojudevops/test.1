@@ -1,0 +1,11 @@
+• NOMBRE:……a b hi s he k p…………………………….
+• APELLIDOS:…pathak………………………………….
+• NACIONALIDAD:………indio……………………………..
+• FECHA DENACIMIENTO:…10/04/1997………………………………..
+• EDAD:……2 4………………………………………….
+• PROFESIÓN:…… profesora de español………………………………..
+• NÚMERO DETELÉFONO:…........9301208974.....................
+• CORREO ELECTRÓNICO/
+EMAIL:…abhishekpathakk2@gamil.com……………………………….
+NAME, LAST NAME, NATIONALITY, DATE OF BIRTH, AGE, PROFESSION, TELEPHONE
+NUMBER, EMAIL ID
